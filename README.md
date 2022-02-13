@@ -3,6 +3,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [NextJs](https://nextjs.org/)
+- [Fauna](https://fauna.com/)
+- [Stripe](https://stripe.com/)
 
 ## 🧪 Telas
 
